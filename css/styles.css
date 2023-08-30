@@ -1,3 +1,8 @@
 body{
-    background-color: rgb(255, 233, 205);
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 30px;
 }

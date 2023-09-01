@@ -5,12 +5,12 @@ body{
 }
 
 h1{
-    margin-left: 30px;
+    font-size: 30pt;
 }
 h2{
-    font-size: 20px;
+    font-size: 20pt;
 }
 p{
-
+    font-size: 15pt;
     margin-right: 50px;
 }
